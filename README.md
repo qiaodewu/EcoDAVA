@@ -4,22 +4,31 @@ Ecological data analysis and visualization assistant
 EcoDAVA Installation Guide
 Prerequisites
 Before installing EcoDAVA, please install the following software first:
-- R: version 4.5 or above
+- R: version 4.5.2 or above
 - RStudio: latest stable version recommended
 
 Local Package Installation
+
 Install EcoDAVA via the local source package:
+
 Select the local installation option and install the package file: EcoDAVA_1.0.1.tar.gz
 
 Load the Package
+
 After installation finishes, run the following command in the R console to load the package:
+
 library(EcoDAVA)
+
 Installation Verification
+
 The installation is successful if the following prompt appears in the console:
+
 EcoDAVA 1.0.1: call EcoDAVA::run_dava() to launch the application
 
 Launch EcoDAVA
+
 Execute the command below in the console to open the EcoDAVA main interface:
+
 run_dava()
 
 
