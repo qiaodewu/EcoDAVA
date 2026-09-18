@@ -1,6 +1,10 @@
 # EcoDAVA
 Ecological data analysis and visualization assistant
 
+<img width="3109" height="2231" alt="Figure1" src="https://github.com/user-attachments/assets/9341d3a1-8f36-4822-ba33-160773beff62" />
+
+#----------------------------------------------------#
+
 EcoDAVA Installation Guide
 Prerequisites
 Before installing EcoDAVA, please install the following software first:
@@ -34,5 +38,10 @@ run_dava()
 
 <img width="938" height="617" alt="Rstudio-Packages install" src="https://github.com/user-attachments/assets/20e282d5-7174-4c26-8044-1623c2734310" />
 
+#-----------------------------
 
 <img width="918" height="732" alt="EcoDAVA-mainPage" src="https://github.com/user-attachments/assets/2bee8fa4-dd43-4e05-9403-983915339c5f" />
+
+
+
+
