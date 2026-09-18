@@ -17,6 +17,10 @@ Install EcoDAVA via the local source package:
 
 Select the local installation option and install the package file: EcoDAVA_1.0.1.tar.gz
 
+<img width="938" height="617" alt="Rstudio-Packages install" src="https://github.com/user-attachments/assets/20e282d5-7174-4c26-8044-1623c2734310" />
+
+#-----------------------------
+
 Load the Package
 
 After installation finishes, run the following command in the R console to load the package:
@@ -34,11 +38,6 @@ Launch EcoDAVA
 Execute the command below in the console to open the EcoDAVA main interface:
 
 run_dava()
-
-
-<img width="938" height="617" alt="Rstudio-Packages install" src="https://github.com/user-attachments/assets/20e282d5-7174-4c26-8044-1623c2734310" />
-
-#-----------------------------
 
 <img width="918" height="732" alt="EcoDAVA-mainPage" src="https://github.com/user-attachments/assets/2bee8fa4-dd43-4e05-9403-983915339c5f" />
 
